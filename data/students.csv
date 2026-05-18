@@ -1,41 +1,80 @@
-Namn,Kurs,Betyg,Studietimmar
-Emma Svensson,Svenska,B,21
-Emma Svensson,Matematik,B,36
-Emma Svensson,Engelska,B,22
-Emma Svensson,Historia,E,34
-Emma Svensson,Biologi,C,16
-Lucas Andersson,Svenska,D,5
-Lucas Andersson,Matematik,E,30
-Lucas Andersson,Engelska,C,38
-Lucas Andersson,Historia,C,35
-Lucas Andersson,Biologi,B,18
-Maja Nilsson,Svenska,E,14
-Maja Nilsson,Matematik,B,34
-Maja Nilsson,Engelska,C,13
-Maja Nilsson,Historia,E,31
-Maja Nilsson,Biologi,B,37
-Oscar Johansson,Svenska,A,20
-Oscar Johansson,Matematik,A,16
-Oscar Johansson,Engelska,B,11
-Oscar Johansson,Historia,A,15
-Oscar Johansson,Biologi,B,9
-Ella Karlsson,Svenska,D,32
-Ella Karlsson,Matematik,C,29
-Ella Karlsson,Engelska,A,9
-Ella Karlsson,Historia,E,30
-Ella Karlsson,Biologi,D,38
-William Eriksson,Svenska,B,40
-William Eriksson,Matematik,D,23
-William Eriksson,Engelska,B,23
-William Eriksson,Historia,A,23
-William Eriksson,Biologi,D,16
-Alice Larsson,Svenska,E,20
-Alice Larsson,Matematik,C,32
-Alice Larsson,Engelska,C,6
-Alice Larsson,Historia,C,16
-Alice Larsson,Biologi,D,26
-Hugo Lindberg,Svenska,D,17
-Hugo Lindberg,Matematik,D,16
-Hugo Lindberg,Engelska,D,38
-Hugo Lindberg,Historia,D,13
-Hugo Lindberg,Biologi,B,17
+Namn,Kurs,Betygspoäng,Studietimmar
+Emma Svensson,Svenska,4,21
+Emma Svensson,Matematik,5,36
+Emma Svensson,Engelska,4,22
+Emma Svensson,Historia,4,34
+Emma Svensson,Biologi,3,16
+
+Lucas Andersson,Svenska,1,5
+Lucas Andersson,Matematik,3,30
+Lucas Andersson,Engelska,4,38
+Lucas Andersson,Historia,4,35
+Lucas Andersson,Biologi,2,18
+
+Maja Nilsson,Svenska,2,14
+Maja Nilsson,Matematik,4,34
+Maja Nilsson,Engelska,2,13
+Maja Nilsson,Historia,4,31
+Maja Nilsson,Biologi,5,37
+
+Oscar Johansson,Svenska,4,20
+Oscar Johansson,Matematik,3,16
+Oscar Johansson,Engelska,2,11
+Oscar Johansson,Historia,3,15
+Oscar Johansson,Biologi,2,9
+Oscar Johansson,Biologi,2,9
+
+Ella Karlsson,Svenska,4,32
+Ella Karlsson,Svenska,,32
+Ella Karlsson,Matematik,4,29
+Ella Karlsson,Engelska,1,9
+Ella Karlsson,Historia,4,30
+Ella Karlsson,Biologi,5,38
+
+William Eriksson,Svenska,5,40
+William Eriksson,Matematik,4,23
+William Eriksson,Engelska,4,23
+William Eriksson,Historia,4,23
+William Eriksson,Biologi,3,16
+
+Alice Larsson,Svenska,3,20
+Alice Larsson,Matematik,4,32
+Alice Larsson,Engelska,1,6
+Alice Larsson,Historia,2,16
+Alice Larsson,Biologi,3,26
+
+Hugo Lindberg,Svenska,3,17
+Hugo Lindberg,Matematik,3,16
+Hugo Lindberg,Engelska,4,38
+Hugo Lindberg,Historia,2,13
+Hugo Lindberg,Biologi,3,17
+
+Sara Berg,Svenska,5,39
+Sara Berg,Matematik,5,37
+Sara Berg,Engelska,4,28
+Sara Berg,Historia,4,26
+Sara Berg,Biologi,5,35
+
+Noah Persson,Svenska,1,7
+Noah Persson,Matematik,2,12
+Noah Persson,Engelska,2,15
+Noah Persson,Historia,3,18
+Noah Persson,Biologi,2,10
+
+Olivia Holm,Svenska,4,27
+Olivia Holm,Matematik,5,33
+Olivia Holm,Engelska,4,24
+Olivia Holm,Historia,3,20
+Olivia Holm,Biologi,4,29
+
+Elias Nyström,Svenska,2,11
+Elias Nyström,Matematik,3,19
+Elias Nyström,Engelska,3,21
+Elias Nyström,Historia,4,30
+Elias Nyström,Biologi,4,34
+
+Felicia Dahl,Svenska,5,36
+Felicia Dahl,Matematik,4,25
+Felicia Dahl,Engelska,5,40
+Felicia Dahl,Historia,4,31
+Felicia Dahl,Biologi,5,38
